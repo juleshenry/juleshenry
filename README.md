@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julian Henry ( glistensystems.com )</h1>
-<h3 align="center">A passionate freelance frontend developer from New Delhi, India</h3>
+<h3 align="center">A passionate software engineer from Austin, Texas</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juleshenry" alt="juleshenry" /></a> </p>
 
