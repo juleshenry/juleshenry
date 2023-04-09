@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juleshenry" alt="juleshenry" /></a> </p>
 
-- 🔭 I’m currently working on **Scalable Coding Solutions for the Cloud**
+- 🔭 I’m currently working on **Scalable Software Solutions for the Cloud**
 
 - 🌱 I’m currently learning **Rust and WebAssembly**
 
