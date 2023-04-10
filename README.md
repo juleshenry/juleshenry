@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Julian Henry </h1>
-<h3 align="center">Dedicated to <strong>Engineering Envisionary Enteprises™</strong> through code</h3>
+<h1 align="center">Hello 🖐️ , my name is Julian Henry </h1>
+<h3 align="center">Dedicated to <strong>Engineering Envisionary Enteprises™</strong> through software</h3>
 
 - 🔭 I’m currently working on **Scalable Software Solutions for the Cloud**
 - 🌱 I’m currently learning **Rust and WebAssembly**
