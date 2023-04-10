@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Julian Henry </h1>
 <h3 align="center">A passionate software engineer from Austin, Texas</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juleshenry&theme=dark_lover" alt="juleshenry" /></a> </p>
-
 - 🔭 I’m currently working on **Scalable Software Solutions for the Cloud**
 
 - 🌱 I’m currently learning **Rust and WebAssembly**
@@ -39,3 +37,5 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juleshenry&show_icons=true&locale=en" alt="juleshenry" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juleshenry&" alt="juleshenry" /></p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juleshenry&theme=dark_lover" alt="juleshenry" /></a> </p>
