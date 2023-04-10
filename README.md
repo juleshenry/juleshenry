@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on **Scalable Software Solutions for the Cloud**
 - 🌱 I’m currently learning **Rust and WebAssembly**
 - 💬 Ask me about **Data Science, Python, Cyber-Security**
-- 📫 How to reach me **julian_henry_0@yahoo.com**
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
