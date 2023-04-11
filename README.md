@@ -2,10 +2,10 @@
 <!-- <h2 align="center">你好, Hola, Hello, नमस्ते, السلام عليكم, হ্যালো, Olá, Привет, こんにちは, ਸਤ ਸ੍ਰੀ ਅਕਾਲ, Hallo, Halo, 呵呵, హలో, Xin chào, नमस्कार, 안녕하세요, Bonjour, வணக்கம், Merhaba, اسلام و علیکم, Ciao, 哈囉, สวัสดี, નમસ્તે </h2> -->
 <h3 align="center">Dedicated to <strong>Engineering Emerging Enteprises™</strong> through software</h3>
 
-- 🔭 I’m currently working on **Scalable Software Solutions for the Cloud**
-- 🌱 My latest techn obsession: **Rust and WebAssembly**
-- 💬 Ask me about **Data Science, Python, Cyber-Security**
-- 🗣️ A natural chatter-box, I am learning French and Korean language this year
+- 🔭 I’m currently working on **Scalable Software Solutions™ for the Cloud**
+- 🌱 My latest technology obsession: **Rust and WebAssembly**
+- 💬 Ask me about **Data Science, Python, Cyber-Security**; these are my strongest topics
+- 🗣️ A natural chatter-box, I am studying basic conversational fluency in both French and Korean
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
