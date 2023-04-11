@@ -3,8 +3,9 @@
 <h3 align="center">Dedicated to <strong>Engineering Emerging Enteprises™</strong> through software</h3>
 
 - 🔭 I’m currently working on **Scalable Software Solutions for the Cloud**
-- 🌱 I’m currently learning **Rust and WebAssembly**
+- 🌱 My latest techn obsession: **Rust and WebAssembly**
 - 💬 Ask me about **Data Science, Python, Cyber-Security**
+- 🗣️ A natural chatter-box, I am learning French and Korean language this year
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
