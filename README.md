@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on **Scalable Software Solutions™ for the Cloud**
 - 🌱 My latest technology obsession: **Rust and WebAssembly**
 - 💬 Ask me about **Data Science, Python, Cyber-Security**; these are my strongest topics
-- 🗣️ A natural chatter-box, I am studying basic conversational fluency in both French and Korean
+- 🗣️ A natural chatter-box
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
