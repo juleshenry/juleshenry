@@ -4,8 +4,8 @@
 
 - 🔭 I’m currently working on **Scalable Software Solutions™ for the Cloud**
 - 🌱 My latest technology obsession: **Rust and WebAssembly**
-- 💬 Ask me about **Data Science, Python, Cyber-Security**; these are my strongest topics
-- 🗣️ A natural chatter-box
+- 💬 Ask me about **Data Science, Full Stack Web Development, Cyber-Security**; these are my strongest topics
+- 🗣️ A natural chatter-box, loves to learn new languages, code or human
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
