@@ -4,6 +4,14 @@
 
 - 🔭 I’m currently working on cloud-based, **Scalable Software Solutions™**
 
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juleshenry&show_icons=true&locale=en&layout=compact" alt="juleshenry" /></p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juleshenry&show_icons=true&locale=en" alt="juleshenry" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juleshenry&" alt="juleshenry" /></p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juleshenry&theme=dark_lover&title=Commit&column=1" alt="juleshenry" /></a> </p>
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
@@ -25,11 +33,3 @@
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 </p>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juleshenry&show_icons=true&locale=en&layout=compact" alt="juleshenry" /></p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juleshenry&show_icons=true&locale=en" alt="juleshenry" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juleshenry&" alt="juleshenry" /></p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juleshenry&theme=dark_lover&title=Commit&column=1" alt="juleshenry" /></a> </p>
