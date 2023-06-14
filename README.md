@@ -2,15 +2,16 @@
 <h1 align="center">🖐️ , soy Julian Henry </h1>
 <h3 align="center">Dedicated to <strong>Engineering Emerging Enteprises™</strong></h3>
 
-- 🔭 I’m currently working on cloud-based, **Scalable Software Solutions™**
+<p align="center">  🔭 I’m currently working on cloud-based, **Scalable Software Solutions™** </p>
+
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juleshenry&theme=dark_lover&title=Commit&column=1" alt="juleshenry" /></a> </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juleshenry&show_icons=true&locale=en&layout=compact" alt="juleshenry" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juleshenry&show_icons=true&locale=en" alt="juleshenry" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juleshenry&" alt="juleshenry" /></p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juleshenry&theme=dark_lover&title=Commit&column=1" alt="juleshenry" /></a> </p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
