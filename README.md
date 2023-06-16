@@ -2,7 +2,7 @@
 <h1 align="center">🖐️ , soy Julian Henry </h1>
 <h3 align="center">Dedicated to <strong>Engineering Emerging Enteprises™</strong></h3>
 
-<p align="center">  🔭 I’m currently working on cloud-based, **Scalable Software Solutions™** </p>
+<p align="center">  🔭 I’m currently working on cloud-based, <strong>Scalable Software Solutions™</strong> </p>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juleshenry&theme=dark_lover&title=Commit&column=1" alt="juleshenry" /></a> </p>
