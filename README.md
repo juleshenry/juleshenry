@@ -1,4 +1,4 @@
-<h2 align="center">![alt text](https://github.com/juleshenry/juleshenry/blob/main/output.gif)</h2>
+![alt text](https://github.com/juleshenry/juleshenry/blob/main/output.gif)
 <h1 align="center">🖐️ , soy Julián Henry </h1>
 <h3 align="center">Dedicated to <strong>Engineering Emerging Enteprises™</strong></h3>
 
