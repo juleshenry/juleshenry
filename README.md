@@ -1,10 +1,6 @@
-<img src="avatar.png" align="right" width="140" alt="JHenry frog" />
-
 # Julian Henry
 
 Full-stack dev & full-time futurist, based in Houston.
-
-> *May you implement beautiful methods in harmony with the data structures of life's source code.*
 
 📝 [juleshenry.github.io](https://juleshenry.github.io)
 
