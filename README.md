@@ -2,8 +2,7 @@
 
 **full-stack dev & full-time futurist** · Houston, TX
 
-Senior full-stack engineer building trading systems by day: C++17, Java and Python across a 1M+ line platform.
-By night I build tools that make the world's languages, news and knowledge easier to reach.
+I build tools that make the world's languages, news and knowledge easier to reach.
 
 [juleshenry.github.io](https://juleshenry.github.io) · [writing](https://juleshenry.github.io/blog/) · [undergrad thesis on differential privacy](https://juleshenry.github.io/blog/assets/2020/QITM.pdf)
 
@@ -45,7 +44,3 @@ By night I build tools that make the world's languages, news and knowledge easie
 **Data / ML:** pandas · NumPy · scikit-learn · NLP · RAG · FAISS<br/>
 **Infra:** AWS · Kafka · Docker · Kubernetes · Terraform · Cloudflare Workers<br/>
 **Speaking:** English · Español · Português · Français · 한국어
-
-## 📍 Path
-
-Macquarie (trading systems) · AGCO (connected-farm telemetry for the Fendt.One platform) · SimSpace (ML for cyber-threat detection) · Transamerica (annuity risk models) · UPenn CS
